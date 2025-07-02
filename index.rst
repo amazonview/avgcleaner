@@ -10,7 +10,7 @@ How Do I Activate AVG Antivirus Using AVG Retail Activation?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_22.png
    :width: 350px
    :align: center
    :height: 100px
